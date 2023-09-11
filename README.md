@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="41%" height="40%" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="41%" height="41%"/>
 👋 Hi, I’m Ho Huu Phuoc @Pwave2k1
 <br>🕴️💼 I’m currently a Game Developer
 <br>🕵️ Contact me at: hophuoc56@gmail.com

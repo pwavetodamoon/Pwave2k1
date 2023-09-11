@@ -21,7 +21,7 @@
 <img style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width:50% ;
+  width:75% ;
   grid-column: 1/-1;" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwave2K1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="auto" height="auto" />
 ---
@@ -33,7 +33,12 @@
      src="https://github-readme-stats.vercel.app/api?username=Pwave2K1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="auto" height="auto" />
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:75% ;
+  grid-column: 1/-1;" 
+     src="https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="auto" height="auto" />
 ---
 [![](https://visitcount.itsvg.in/api?id=Pwave2k1&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 

@@ -13,6 +13,9 @@
 ![C#](https://img.icons8.com/?size=1x&id=Fycm8TUhWmFU&format=png) 
 ![GitHub](https://img.icons8.com/?size=1x&id=46565&format=png) 
 ![UNITY](https://img.icons8.com/?size=1x&id=VLjW6zFrsq2F&format=png)
+<br>
+![SourceTree](https://img.icons8.com/?size=1x&id=Qu2sYlfDM0qZ&format=png)
+![GitBash](https://img.icons8.com/?size=1x&id=20906&format=png)
 
 # 📊 GitHub Stats:
 <img style="display: block;
@@ -32,5 +35,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
- [![](https://visitcount.itsvg.in/api?id=Pwave2k1&icon=5&color=1)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=Pwave2k1&icon=5&color=0)](https://visitcount.itsvg.in)
 

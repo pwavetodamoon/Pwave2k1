@@ -24,7 +24,7 @@
   width:50% ;
   grid-column: 1/-1;" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwave2K1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="auto" height="auto" />
-     
+---
 <img style="display: block;
   margin-left: auto;
   margin-right: auto;

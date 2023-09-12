@@ -1,6 +1,16 @@
 # 💫 About Me:
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="43%" height="41%"/>
-👋 Hi, I’m Ho Huu Phuoc @Pwave2k1
+<img style="display: block;
+  margin-left: auto;
+  width:75% ;
+  grid-column: 1/-1;" 
+     src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47n6197pnkmma5ooguc8nxtpfo2ix282io290338bx&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="52.5%" height="41%"/> 
+<img style="display: block;
+  margin-right: auto;
+  width:75% ;
+  grid-column: 1/-1;" 
+     src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="43%" height="41%" />
+     
+<br >👋 Hi, I’m Ho Huu Phuoc @Pwave2k1
 <br >🕴️💼 I’m currently a Game Developer
 <br>🕵️ Contact me at: hophuoc56@gmail.com
 
@@ -27,7 +37,7 @@
   width:75% ;
   grid-column: 1/-1;" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwave2K1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="auto" height="auto" />
----
+     
 <img style="display: block;
   margin-left: auto;
   margin-right: auto;
@@ -42,5 +52,4 @@
   width:75% ;
   grid-column: 1/-1;" 
      src="https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="auto" height="auto" />
----
-[![](https://visitcount.itsvg.in/api?id=Pwave2k1&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+ <br>👋 Thanks for visiting 👋 

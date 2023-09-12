@@ -1,8 +1,11 @@
 # 💫 About Me:
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="43%" height="41%"/>
 👋 Hi, I’m Ho Huu Phuoc @Pwave2k1
-<br>🕴️💼 I’m currently a Game Developer
+<br >🕴️💼 I’m currently a Game Developer
 <br>🕵️ Contact me at: hophuoc56@gmail.com
+
+
+<br> ![](https://komarev.com/ghpvc/?username=Pwave2k1&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🌐 Socials:
 [![Facebook](https://img.icons8.com/?size=1x&id=118568&format=png)](https://facebook.com/pwave.itsme/) 
@@ -41,4 +44,3 @@
      src="https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="auto" height="auto" />
 ---
 [![](https://visitcount.itsvg.in/api?id=Pwave2k1&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
